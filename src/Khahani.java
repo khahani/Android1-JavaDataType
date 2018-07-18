@@ -24,5 +24,7 @@ public class Khahani {
         char c = 'a';
         String name = "Mohammadreza Khahani";
 
+        System.out.println();
+
     }
 }
