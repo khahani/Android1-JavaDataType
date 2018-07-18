@@ -24,7 +24,18 @@ public class Khahani {
         char c = 'a';
         String name = "Mohammadreza Khahani";
 
-        System.out.println();
+        System.out.println(b);
+        System.out.println(sh);
+        System.out.println(i);
+        System.out.println(l);
+        System.out.println(f);
+        System.out.println(d);
+        System.out.println(c);
+        System.out.println(name);
+
+        System.out.println("This is another usage of println");
+        System.out.println(12);
+        System.out.println(12 + 4);
 
     }
 }
